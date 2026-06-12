@@ -31,7 +31,8 @@ define Package/uconfig
   SUBMENU:=uConfig
   TITLE:=UCI renderer
   DEPENDS=+ucode-mod-nl80211 +ucode-mod-rtnl +ucode-mod-ubus \
-  	  +ip-full +ip-bridge +ratelimit +pkgen +nlbwmon +wifi-dynamic +cli
+	  +ip-full +ip-bridge +ratelimit +pkgen +nlbwmon \
+	  +wifi-dynamic +cli +wifi-scripts
 endef
 
 define Package/uconfig-mod-ucoord
