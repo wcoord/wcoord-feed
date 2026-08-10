@@ -4,7 +4,7 @@ PKG_NAME:=uconfig
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://github.com/blogic/uconfig.git
-PKG_SOURCE_VERSION:=09362f4c27d92e19bcb5f69eb230dd37496bd5ec
+PKG_SOURCE_VERSION:=88464c01632319cb15b76cc71c91fef0c9329483
 
 PKG_MAINTAINER:=John Crispin <john@phrozen.org>
 PKG_LICENSE:=ISC
