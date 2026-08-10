@@ -3,8 +3,8 @@ include $(TOPDIR)/rules.mk
 PKG_NAME:=uconfig
 
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/blogic/uconfig.git
-PKG_SOURCE_VERSION:=88464c01632319cb15b76cc71c91fef0c9329483
+PKG_SOURCE_URL:=https://git.informatics.coop/wcoord/uconfig.git
+PKG_SOURCE_VERSION:=3866623ab43ff082c1d3b884c779bc5a023e4aeb
 
 PKG_MAINTAINER:=John Crispin <john@phrozen.org>
 PKG_LICENSE:=ISC
