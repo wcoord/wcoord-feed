@@ -4,7 +4,7 @@ PKG_NAME:=uconfig
 
 PKG_SOURCE_PROTO:=git
 PKG_SOURCE_URL:=https://git.informatics.coop/wcoord/uconfig.git
-PKG_SOURCE_VERSION:=3866623ab43ff082c1d3b884c779bc5a023e4aeb
+PKG_SOURCE_VERSION:=0d062a6f1418e7c294955661df35b26d9296b645
 
 PKG_MAINTAINER:=John Crispin <john@phrozen.org>
 PKG_LICENSE:=ISC
